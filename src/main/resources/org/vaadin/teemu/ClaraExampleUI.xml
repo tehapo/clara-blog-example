@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VerticalLayout xmlns="urn:import:com.vaadin.ui" margin="true" id="main-layout">
+	<Button id="my-button" caption="Click Me" />
+</VerticalLayout>
