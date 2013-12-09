@@ -33,7 +33,9 @@ public class ClaraExampleUI extends UI {
         /*
          * Create the layout from file ClaraExampleUI.xml (see the
          * src/main/resources folder), which has to be in the classpath inside
-         * the same package as this class.
+         * the same package as this class. The second argument indicates that
+         * "this" object will be used as the controller and scanned for
+         * annotations.
          */
         setContent(Clara.create("ClaraExampleUI.xml", this));
     }
