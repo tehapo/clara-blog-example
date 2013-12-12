@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <VerticalLayout id="main-layout" margin="true">
-	<Button id="my-button" caption="Click Me" />
+    <Button id="my-button" caption="Click Me" />
 </VerticalLayout>
